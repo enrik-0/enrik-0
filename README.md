@@ -20,7 +20,7 @@ Desarrollador de software centrado en backend, arquitectura de sistemas y herram
 - **[TraceAgent](https://github.com/LixusSoftware/TraceAgent)** — plataforma de observabilidad y trazado para agentes de IA: registra llamadas a herramientas, operaciones de archivos, comandos y rutas de decisión en tiempo real. Python (FastAPI + React) con integración nativa para LangChain.
 - **[neokimi](https://github.com/enrik-0/neokimi)** —  Integración de Kimi Code en NeoVim
 - **[PowerOverload](https://github.com/tburrows13/PowerOverload)** — mod de Factorio que reorganiza la distribución de energía. Escrito en Lua; estoy contribuyendo al proyecto.
-- **[Vortex](https://github.com/enrik-0/vortex)** — mi framework de backend en Java (ver abajo).
+- **[Vortex](https://github.com/enrik-0/vortex)** — mi framework de backend en Java.
 
 ## Tecnologías y herramientas
 
